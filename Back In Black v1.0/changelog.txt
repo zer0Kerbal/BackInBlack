@@ -1,3 +1,7 @@
+v1.0
+- Added stock Mk3 parts, all the stock parts I'm planning on doing, so v1.0 I guess!
+- Updated Mk2 Expansion compatibility to work with v1.8
+
 v0.4
 - Added compatibility for Orbit Portal Technology
 - Merged M2X texture switches into one switch per part (except nosecones, for if you want grey heat tiles)
